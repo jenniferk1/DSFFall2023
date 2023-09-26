@@ -1,1 +1,1 @@
-THis is a directory for uploading data
+This is a directory for uploading data
